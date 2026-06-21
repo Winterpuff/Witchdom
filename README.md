@@ -1,17 +1,12 @@
-# Unciv-civ-mod
+Adds a new Nation to Unciv.
 
-Adds a new Civilization to Unciv.
-
-Name: Permafrost
+Name: The Witch's Queendom
 
 Leader: The Frozen Witch
 
 Uniques:
 - May not annex cities.
 - May not found cities.
-- Can only build in Nevermeltice tiles.
-- Can create Nevermeltice tiles inside your territory (free, 4 turns).
-- Wisp substitutes Worker unit.
-- Ice core substitutes City center as capital.
-- -100% Food consumption in capital.
-- -1 Movement for Enemy units inside your territory's Snow tiles.
+- -30% Food consumption in capital.
+- -30% Culture cost of natural border growth in capital.
+- -30% Unhappiness from population in capital
