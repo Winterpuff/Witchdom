@@ -1,0 +1,43 @@
+[
+	{
+		"name": "The Witch's Queendom",
+		"leaderName": "The Frozen Witch",
+		"adjective": ["Frozen"],
+        "startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "There is only one rule to follow.",
+        "startIntroPart2": "Expand the permafrost and it shall reward you.",
+		
+		"declaringWar": "I shall freeze you to death!",
+		"attacked": "You dare to defy nature itself?",
+		"defeated": "How is this possible!?",
+		"introduction": "Greetings. I am Yusidora, the frozen witch of winter. Do you like snow?",
+		
+        "neutralHello": "May the cold be with you.",
+		"neutralLetsHearIt": "Speak, and I might hear.",
+		"neutralNo": "I am sorry you can only offer this much.'",
+		"neutralYes": "This is not that good, but I shall accept it.'",
+        
+		"hateHello": "May the cold be with you.",
+		"hateLetsHearIt": "Speak, and I might hear.",
+		"hateNo": "This does not pleases me. Begone!'",
+		"hateYes": "It does not seems like a have a choice, anyways.",
+		
+		"afterPeace": "Disappointing... As always.",
+		"tradeRequest": "The frozen lands have many treasures. Would you like some?",
+        "denounced": "Swallow your words and perish.",
+		"declaringfriendship": "Be grateful, for I will allow you to be my friend.",
+        
+		"outerColor": [135,206,250],
+		"innerColor": [255,255,255],
+		"uniqueName": "Winter",
+        "uniqueText": "May not annex cities \n Cannot build Settlers \n-30% Food consumption in capital \n-30% Culture cost of natural border growth in capital \n-30% Unhappiness from population in capital", 
+		"uniques": ["May not annex cities",
+                    "[-30]% Food consumption by [Population] [in capital]",
+                    "[-30]% Culture cost of natural border growth [in capital]",
+                    "[-30]% Unhappiness from [Population] [in capital]"],
+		"cities": ["Winterfell"],
+		"spyNames": ["Noelle", "Frost", "Ivy", "Douglas", "Zima", "Mr.Freeze", "Crystal", "Glacier", "Blanche", "Holly"]
+	}
+]
